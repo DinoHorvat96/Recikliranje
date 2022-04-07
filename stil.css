@@ -3,7 +3,7 @@
 
 body {
 	font-family:Tahoma, Geneva, sans-serif;
-	background-color:#ffffff;
+	background-color:#CC9;
 	color:#000000;
 	font-size:11pt;
 	}
@@ -11,6 +11,15 @@ body {
 #omot {
 	margin:10px auto;
 	width:950px;
+	background-color:#FFF;
+}
+
+h1 {
+	margin-left:2px;
+}
+
+p {
+	margin-left:2px;
 }
 
 /* .header {
@@ -112,3 +121,9 @@ background-image:url(slike/aheader.jpg);
 .header a:hover {
 background-image:url(slike/aheader.jpg) -206px -426px;
 } */
+
+video {
+	width:320px;
+	height:200px;
+	padding-left:10px;
+}
